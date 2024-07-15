@@ -1,0 +1,160 @@
+/* Small devices (phones, 575px and up) */
+@media (min-width: 575px) {
+  #header {
+    padding: 20px 40px;
+  }
+
+  .header-list-nav ul li {
+    padding: 0 10px;
+  }
+
+  .header-list-nav ul a {
+    font-size: 14px;
+  }
+
+  .hamburger {
+    display: none;
+  }
+
+  .mobile-nav {
+    display: none;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  #header {
+    padding: 20px 60px;
+  }
+
+  .header-list-nav ul li {
+    padding: 0 15px;
+  }
+
+  .header-list-nav ul a {
+    font-size: 15px;
+  }
+
+  .hamburger {
+    display: none;
+  }
+
+  .mobile-nav {
+    display: none;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  #header {
+    padding: 20px 80px;
+  }
+
+  .header-list-nav ul li {
+    padding: 0 20px;
+  }
+
+  .header-list-nav ul a {
+    font-size: 16px;
+  }
+
+  .hamburger {
+    display: none;
+  }
+
+  .mobile-nav {
+    display: none;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  #header {
+    padding: 20px 100px;
+  }
+
+  .header-list-nav ul li {
+    padding: 0 25px;
+  }
+
+  .header-list-nav ul a {
+    font-size: 18px;
+  }
+
+  .hamburger {
+    display: none;
+  }
+
+  .mobile-nav {
+    display: none;
+  }
+}
+
+/* Extra small devices (phones, less than 575px) */
+@media (max-width: 574px) {
+  .header-list {
+    display: none;
+  }
+
+  .hamburger {
+    display: flex;
+  }
+
+  .mobile-nav {
+    display: none;
+  }
+
+  .mobile-nav.open {
+    display: flex;
+  }
+
+  #header {
+    padding: 20px 20px;
+  }
+}
+
+/* Small devices (phones, less than 740px) */
+@media (max-width: 740px) {
+  .header-list {
+    display: none;
+  }
+
+  .hamburger {
+    display: flex;
+  }
+
+  .mobile-nav {
+    display: none;
+  }
+
+  .mobile-nav.open {
+    display: flex;
+  }
+
+  #header {
+    padding: 20px 20px;
+  }
+}
+
+/* Small devices (phones, less than 600px) */
+@media (max-width: 600px) {
+  .header-list {
+    display: none;
+  }
+
+  .hamburger {
+    display: flex;
+  }
+
+  .mobile-nav {
+    display: none;
+  }
+
+  .mobile-nav.open {
+    display: flex;
+  }
+
+  #header {
+    padding: 20px 20px;
+  }
+}
