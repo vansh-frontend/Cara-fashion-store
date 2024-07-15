@@ -3,7 +3,7 @@
 Welcome to **Cara**, the chic and modern e-commerce website designed to bring your fashion sense to life. This project is crafted with HTML and CSS, offering a seamless and visually appealing shopping experience.
 
 ![image](https://github.com/user-attachments/assets/6e8c0664-fd21-42f0-a11e-bbeab8e3f6d0)
-
+![alt text](<readme img/sc2.png>)
 ## 🚀 Live Preview
 
 Explore Cara live on:
