@@ -33,10 +33,10 @@ for mac:
 sudo git clone https://github.com/your-username/cara-ecommerce.git
 ```
 
-🤝 Connect with Me
-I'm always excited to connect with fellow developers and enthusiasts. Reach out to me on LinkedIn.
+### Contact
 
-💬 Let's Chat!
-"Code is like humor. When you have to explain it, it’s bad." – Cory House
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/vansh-dhalor-000a7524a/).
 
-Feel free to explore, contribute, and make fashion tech-savvy with Cara. Happy coding! 💻✨
+### License
+
+This project is **free to use** and does not contains any license.
