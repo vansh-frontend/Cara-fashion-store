@@ -56,6 +56,9 @@ p {
   margin: 40px 0;
 }
 
+.header-logo a {
+  cursor: default;
+}
 button.normal {
   font-size: 14px;
   font-weight: 600px;
